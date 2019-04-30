@@ -1,0 +1,3 @@
+rootProject.name = 'Facebook_Messenger_Clone'
+
+include ':app'
